@@ -48,6 +48,8 @@ function myName(first, last){
 }
 console.log(myName("Sarah", "Reynolds"));
 
+   
+
 function calculateTotalPrice(quantity, price){
     let totalPrice = 1.07 * quantity * price;
     return totalPrice;
