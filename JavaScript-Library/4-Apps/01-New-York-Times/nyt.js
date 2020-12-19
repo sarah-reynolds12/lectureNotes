@@ -149,3 +149,4 @@ function previousPage(e){
     fetchResults(e); //grabbing new page numbers from the URL to fetch new results from previous page?
     console.log("Page Number:", pageNumber);
 }
+

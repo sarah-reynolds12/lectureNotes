@@ -9,7 +9,7 @@ let promise = new Promise (function(resolve, reject){
         } else {
             reject('failure');
         }
-    }, 3000);
+    }, 3000;
 })
 
 promise 

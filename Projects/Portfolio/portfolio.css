@@ -1,0 +1,120 @@
+ul{
+    flex-direction: column;
+    justify-content: end;
+    align-content: flex-end;
+    font-variant-caps: all-small-caps;
+}
+
+h1{
+    font-size: 80px;
+    font-variant-caps: all-small-caps;
+}
+
+.container p {
+    font-style: italic;
+    font-size: 20px;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#experience h2 {
+    margin-bottom: 3%;
+}
+
+#experience p {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.col-md p {
+    margin-right: 10%;
+}
+
+h2{
+    font-size: 35px;
+    font-variant-caps: all-small-caps;
+        
+    }
+
+.wrapper{
+    margin: 5px;
+    background-color: #e6e6f7;
+}
+
+.container1 h2 {
+    font-size: 35px;
+    font-variant-caps: all-small-caps;
+    text-align: center;
+}
+
+.col-md {
+    padding-left: 50px;
+}
+
+#skills h2 {
+    margin-bottom: 3%;
+}
+.container1 images {
+    margin-right:15%;
+    border-radius: 10px;
+}
+
+footer {
+    border-radius: 5px;
+    background-color: rgb(212, 218, 224);
+    text-align: center;
+    font-weight: bold;
+    font-variant-caps: all-small-caps;
+    font-stretch: extra-expanded;
+    font-size: 20px;
+}
+
+#connect{
+    text-align: center;
+    font-variant-caps: all-small-caps;
+    font-weight: bolder;
+    font-size: 20px;
+       
+}
+
+textarea#message {
+    padding: 12px 16px;
+}
+
+.style {
+    position: fixed;
+    margin-left: 80%;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.style a{
+    color:white;
+}
+
+.carousel-item active img {
+    border-radius: 10px;
+}
+
+navbar a:hover{
+    color: grey;
+}
+
+.inputstyle{
+    width: 450px;
+}
+
+#me{
+    border-radius: 5px;
+    margin-left: 75px;
+    margin-top: 30px;
+}
+
+#words {
+    margin-right: 50px;
+}
+
+.messagestyle {
+    width: 1000px;
+}
